@@ -1,0 +1,19 @@
+$primary:red;
+$secondary:green;
+$col:white;
+body{
+    background: $primary;
+}
+.xman{
+    background: $secondary;
+    color:$primary;
+    &_one{
+        color: $col;
+    }
+    &_two{
+        color: yellow;
+    }
+    &_three{
+        color: gray;
+    }
+}

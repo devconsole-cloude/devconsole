@@ -1,0 +1,12 @@
+body {
+  background: red; }
+
+.xman {
+  background: green;
+  color: red; }
+  .xman_one {
+    color: white; }
+  .xman_two {
+    color: yellow; }
+  .xman_three {
+    color: gray; }
